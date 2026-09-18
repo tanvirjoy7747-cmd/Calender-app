@@ -1,0 +1,6 @@
+{
+  "name": "Calendar",
+  "description": "A modern calendar app to view months, organize daily schedules, and manage events.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
